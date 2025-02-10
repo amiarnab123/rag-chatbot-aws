@@ -1,0 +1,11 @@
+langchain==0.3.17
+langchain_community==0.3.16
+pymupdf==1.25.2
+beautifulsoup4
+flask
+faiss-cpu
+openai
+markdownify
+mysql-connector-python
+tiktoken
+gunicorn
