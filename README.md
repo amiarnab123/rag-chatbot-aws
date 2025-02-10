@@ -2,6 +2,9 @@
 
 Create a RAG based chatbot using open source LLM on multiple webiste and docuements.
 
+#### Architecture
+![alt text](./markdown_assets/architecture.png)
+
 #### Folder Structure
 - rag.py -- Pipeline to run the whole rag process
 - utils.py -- Each component of pipeline
